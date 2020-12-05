@@ -17,6 +17,7 @@ module.exports = {
         'Conditional rendering': [
           'if-else',
           'ternary-operation',
+          'logical-and-operator',
         ],
       },
     ],
