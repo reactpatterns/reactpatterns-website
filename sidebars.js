@@ -12,6 +12,12 @@ module.exports = {
       'render-callback',
       'function-as-child-component',
       'function-as-prop-component',
+      'component-injection',
+      {
+        'Conditional rendering': [
+          'if-else',
+        ],
+      },
     ],
   },
 };
