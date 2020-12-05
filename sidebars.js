@@ -11,6 +11,7 @@ module.exports = {
       'jsx-spread-attributes',
       'render-callback',
       'function-as-child-component',
+      'function-as-prop-component',
     ],
   },
 };

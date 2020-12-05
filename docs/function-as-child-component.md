@@ -61,7 +61,7 @@ class PageWidth extends React.Component {
 
 And then you could use it as.
 
-```js
+```jsx
 <PageWidth>
   {width => <div>Page width is {width}</div>}
 </PageWidth>
