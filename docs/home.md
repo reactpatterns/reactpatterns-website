@@ -11,8 +11,4 @@ slug: /
 
 React Patterns, techniques, tips and tricks in development for Ract developer.
 
-To get the latest React patterns follow us on:
-
-* Twitter: <a href="https://twitter.com/reactjspatterns">@reactjspatterns</a>
-* Github: <a href="https://github.com/reactpatterns/reactpatterns">@reactpatterns</a>
-* Facebook: <a href="https://www.facebook.com/ReactJSPatterns">@reactjspatterns</a>
+To get the latest React patterns docs and blogs follow us on <a href="https://twitter.com/reactjspatterns">Twitter</a>, <a href="https://github.com/reactpatterns/reactpatterns">Github</a>, and <a href="https://www.facebook.com/ReactJSPatterns">Facebook</a>.
