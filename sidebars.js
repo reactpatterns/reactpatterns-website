@@ -10,6 +10,7 @@ module.exports = {
       'accessing-a-child-component',
       'jsx-spread-attributes',
       'render-callback',
+      'function-as-child-component',
     ],
   },
 };
