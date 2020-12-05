@@ -18,6 +18,7 @@ module.exports = {
           'if-else',
           'ternary-operation',
           'logical-and-operator',
+          'switch-case-operator',
         ],
       },
     ],
