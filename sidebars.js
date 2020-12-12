@@ -25,6 +25,16 @@ module.exports = {
           'external-templating-component',
         ],
       },
+      {
+        'Destructuring': [
+          'destructuring',
+          'destructuring-function-argument',
+          'nested-destructuring',
+          'destructuring-rest-or-spread-operator',
+        ],
+      },
+      'promises-over-callbacks',
+      'container-component',
     ],
   },
 };
