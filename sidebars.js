@@ -36,7 +36,7 @@ module.exports = {
       'promises-over-callbacks',
       'container-component',
       'state-hoisting',
-      'pure-component-avoid-heavy-rerender',
+      'pure-component-avoid-heavy-re-render',
     ],
     'React Anti-patterns': [
       'props-in-initial-state-is-an-anti-pattern',

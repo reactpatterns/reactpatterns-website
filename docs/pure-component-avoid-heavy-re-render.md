@@ -1,10 +1,10 @@
 ---
-id: pure-component-avoid-heavy-rerender
-sidebar_label: Pure component avoid heavy rerender
-title: Pure Component Avoid Heavy Rerender
-description: Pure component avoid heavy rerender | React Patterns, techniques, tips and tricks in development for Ract developer.
-keywords: ['pure component avoid heavy rerender', 'reactpatterns', 'react patterns', 'reactjspatterns', 'reactjs patterns', 'react', 'reactjs', 'react techniques', 'react tips and tricks']
-version: Pure component avoid heavy rerender
+id: pure-component-avoid-heavy-re-render
+sidebar_label: Pure component avoid heavy re-render
+title: Pure Component Avoid Heavy Re-render
+description: Pure component avoid heavy re-render | React Patterns, techniques, tips and tricks in development for Ract developer.
+keywords: ['pure component avoid heavy re-render', 'reactpatterns', 'react patterns', 'reactjspatterns', 'reactjs patterns', 'react', 'reactjs', 'react techniques', 'react tips and tricks']
+version: Pure component avoid heavy re-render
 image: /img/reactpatterns-cover.png
 ---
 
