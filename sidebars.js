@@ -35,6 +35,7 @@ module.exports = {
       },
       'promises-over-callbacks',
       'container-component',
+      'state-hoisting',
     ],
   },
 };
