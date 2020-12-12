@@ -40,6 +40,9 @@ module.exports = {
     ],
     'React Anti-patterns': [
       'props-in-initial-state-is-an-anti-pattern',
+      'shouldcomponentupdate-avoid-heavy-re-render',
+      'indexes-as-a-key-is-an-anti-pattern',
+      'spreading-props-on-dom-elements-is-an-anti-pattern',
     ],
   },
 };
