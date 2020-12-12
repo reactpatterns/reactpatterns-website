@@ -36,6 +36,7 @@ module.exports = {
       'promises-over-callbacks',
       'container-component',
       'state-hoisting',
+      'pure-component-avoid-heavy-rerender',
     ],
   },
 };
