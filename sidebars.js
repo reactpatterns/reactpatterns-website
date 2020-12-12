@@ -38,5 +38,8 @@ module.exports = {
       'state-hoisting',
       'pure-component-avoid-heavy-rerender',
     ],
+    'React Anti-patterns': [
+      'props-in-initial-state-is-an-anti-pattern',
+    ],
   },
 };
