@@ -12,7 +12,7 @@ You should populate data with AJAX calls in the `componentDidMount` lifecycle me
 
 For example using Class:
 
-```js
+```jsx
 function componentDidMount() {
   fetch('api/sms')
     .then(result => {
@@ -25,7 +25,7 @@ function componentDidMount() {
 
 For example using Hook:
 
-```js
+```jsx
 useEffect(() => {
   fetch('api/sms')
     .then(result => {

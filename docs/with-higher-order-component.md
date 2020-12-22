@@ -10,7 +10,7 @@ image: /img/reactpatterns-cover.png
 
 Higher order component is a perfect match for conditional rendering in React. HOC can have multiple use cases. Yet one use case could be to alter the look of a component. To make the use case more specific, it could be to apply a conditional rendering for a component, let's have a look at a HOC that either shows a loading indicator or a desired component.
 
-```js
+```jsx
 // HOC declaration
 function withLoadingIndicator(Component) {
   return function EnhancedComponent({ isLoading, ...props }) {
