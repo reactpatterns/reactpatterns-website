@@ -23,7 +23,7 @@ Anyway client-size component and server-size component work together very well.
 
 ## What new in React Server Component?
 
-### React Server Component allows static content render faster.
+### React Server Component allows static content render faster
 
 Server-side components can't have any interactivity like using `useState` hook but they can import client-size components with which the user interact.
 
