@@ -6,10 +6,10 @@ author_title: React Patterns Team
 author_url: https://github.com/Bunlong
 author_image_url: https://avatars1.githubusercontent.com/u/37023003?s=400&u=0049c6773040efb265cdf622076305f8b47facec&v=4
 tags: [hook]
-image: /img/react-server-component.png
+image: /img/react-hooks-cheat-sheet.png
 ---
 
-![React Hooks Cheat Sheet](/img/react-server-component.png "React Hooks Cheat Sheet")
+![React Hooks Cheat Sheet](/img/react-hooks-cheat-sheet.png "React Hooks Cheat Sheet")
 
 ## State Management
 
