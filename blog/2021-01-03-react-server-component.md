@@ -17,7 +17,7 @@ React Server Component (CSR) is a new component in React.
 
 Recently, All components in React are client-side component (MyComponent.js) but now you can create them as server-side component by just adding `.server` (MyComponent.server.js).
 
-Anyway client-size component and server-size component work together very well.
+Anyway client-side component and server-side component work together very well.
 
 <!--truncate-->
 
@@ -25,11 +25,11 @@ Anyway client-size component and server-size component work together very well.
 
 ### React Server Component allows static content render faster
 
-Server-side components can't have any interactivity like using `useState` hook but they can import client-size components with which the user interact.
+Server-side components can't have any interactivity like using `useState` hook but they can import client-side components with which the user interact.
 
 ### Won't affect the bundle size
 
-Whatever library you include inside your server component as well as the text content it won't affect the bundle size because it is render on the server.
+Whatever library you include inside your server component as well as the text content it won't affect the bundle side because it is render on the server.
 
 ### Accessing database directly
 
