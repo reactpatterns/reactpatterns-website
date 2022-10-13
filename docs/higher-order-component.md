@@ -2,7 +2,7 @@
 id: higher-order-component
 sidebar_label: Higher-Order component
 title: Higher-Order Component
-description: Higher-Order component | React Patterns, techniques, tips and tricks in development for Ract developer.
+description: Higher-Order component | React Patterns, techniques, tips and tricks in development for React developers.
 keywords: ['higher-order component', 'higher order component', 'reactpatterns', 'react patterns', 'reactjspatterns', 'reactjs patterns', 'react', 'reactjs', 'react techniques', 'react tips and tricks']
 version: Higher-Order components
 image: /img/reactpatterns-cover.png

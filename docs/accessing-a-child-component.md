@@ -2,7 +2,7 @@
 id: accessing-a-child-component
 sidebar_label: Accessing a child component
 title: Accessing a Child Component
-description: Accessing a child component | React Patterns, techniques, tips and tricks in development for Ract developer.
+description: Accessing a child component | React Patterns, techniques, tips and tricks in development for React developers.
 keywords: ['accessing a child component', 'accessingachildcomponent', 'statelessfunction', 'presentational component', 'presentationalcomponent', 'reactpatterns', 'react patterns', 'reactjspatterns', 'reactjs patterns', 'react', 'reactjs', 'react techniques', 'react tips and tricks']
 version: Accessing a child component
 image: /img/reactpatterns-cover.png

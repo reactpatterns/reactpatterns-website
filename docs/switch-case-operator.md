@@ -2,7 +2,7 @@
 id: switch-case-operator
 sidebar_label: Switch case operator
 title: Switch Case Operator
-description: Switch case operator | React Patterns, techniques, tips and tricks in development for Ract developer.
+description: Switch case operator | React Patterns, techniques, tips and tricks in development for React developers.
 keywords: ['switch case operator', 'react switch case operator', 'reactpatterns', 'react patterns', 'reactjspatterns', 'reactjs patterns', 'react', 'reactjs', 'react techniques', 'react tips and tricks']
 version: Switch case operator
 image: /img/reactpatterns-cover.png

@@ -2,7 +2,7 @@
 id: spreading-props-on-dom-elements-is-an-anti-pattern
 sidebar_label: Spreading props on DOM elements is an anti-pattern
 title: Spreading props on DOM Elements is an Anti-pattern
-description: spreading props on DOM elements is an anti-pattern | React Patterns, techniques, tips and tricks in development for Ract developer.
+description: spreading props on DOM elements is an anti-pattern | React Patterns, techniques, tips and tricks in development for React developers.
 keywords: ['shouldComponentUpdate avoid heavy re-renders', 'reactpatterns', 'react patterns', 'reactjspatterns', 'reactjs patterns', 'react', 'reactjs', 'react techniques', 'react tips and tricks']
 version: Spreading props on DOM elements is an anti-pattern
 image: /img/reactpatterns-cover.png

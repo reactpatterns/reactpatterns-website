@@ -2,7 +2,7 @@
 id: render-callback
 sidebar_label: Render callback
 title: Render Callback
-description: Render callback | React Patterns, techniques, tips and tricks in development for Ract developer.
+description: Render callback | React Patterns, techniques, tips and tricks in development for React developers.
 keywords: ['render callback', 'reactpatterns', 'react patterns', 'reactjspatterns', 'reactjs patterns', 'react', 'reactjs', 'react techniques', 'react tips and tricks']
 version: Render callback
 image: /img/reactpatterns-cover.png

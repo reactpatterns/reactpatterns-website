@@ -2,7 +2,7 @@
 id: promises-over-callbacks
 sidebar_label: Promises over callbacks
 title: Promises over callbacks
-description: Promises over callbacks | React Patterns, techniques, tips and tricks in development for Ract developer.
+description: Promises over callbacks | React Patterns, techniques, tips and tricks in development for React developers.
 keywords: ['promises over callbacks', 'reactpatterns', 'react patterns', 'reactjspatterns', 'reactjs patterns', 'react', 'reactjs', 'react techniques', 'react tips and tricks']
 version: Promises over callbacks
 image: /img/reactpatterns-cover.png

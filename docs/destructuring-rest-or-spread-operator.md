@@ -2,7 +2,7 @@
 id: destructuring-rest-or-spread-operator
 sidebar_label: Destructuring rest/spread operator
 title: Destructuring Rest/Spread Operator
-description: Destructuring rest/spread operator | React Patterns, techniques, tips and tricks in development for Ract developer.
+description: Destructuring rest/spread operator | React Patterns, techniques, tips and tricks in development for React developers.
 keywords: ['destructuring rest/spread operator', 'child component', 'reactpatterns', 'react patterns', 'reactjspatterns', 'reactjs patterns', 'react', 'reactjs', 'react techniques', 'react tips and tricks']
 version: Destructuring rest/spread operator
 image: /img/reactpatterns-cover.png

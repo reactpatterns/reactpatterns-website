@@ -2,7 +2,7 @@
 id: container-component
 sidebar_label: Container component (Stateful component)
 title: Container Component (Stateful Component)
-description: Container component (Stateful component) | React Patterns, techniques, tips and tricks in development for Ract developer.
+description: Container component (Stateful component) | React Patterns, techniques, tips and tricks in development for React developers.
 keywords: ['container component (stateful component)', 'child component', 'reactpatterns', 'react patterns', 'reactjspatterns', 'reactjs patterns', 'react', 'reactjs', 'react techniques', 'react tips and tricks']
 version: Container component (Stateful component)
 image: /img/reactpatterns-cover.png

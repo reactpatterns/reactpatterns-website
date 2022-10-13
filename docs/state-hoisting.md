@@ -2,7 +2,7 @@
 id: state-hoisting
 sidebar_label: State hoisting
 title: State Hoisting
-description: State hoisting | React Patterns, techniques, tips and tricks in development for Ract developer.
+description: State hoisting | React Patterns, techniques, tips and tricks in development for React developers.
 keywords: ['state hoisting', 'reactpatterns', 'react patterns', 'reactjspatterns', 'reactjs patterns', 'react', 'reactjs', 'react techniques', 'react tips and tricks']
 version: State hoisting
 image: /img/reactpatterns-cover.png

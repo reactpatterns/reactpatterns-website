@@ -2,7 +2,7 @@
 id: with-higher-order-component
 sidebar_label: With higher order component
 title: With Higher Order Component
-description: With higher order component | React Patterns, techniques, tips and tricks in development for Ract developer.
+description: With higher order component | React Patterns, techniques, tips and tricks in development for React developers.
 keywords: ['with higher order component', 'react ternary operation', 'reactpatterns', 'react patterns', 'reactjspatterns', 'reactjs patterns', 'react', 'reactjs', 'react techniques', 'react tips and tricks']
 version: With higher order component
 image: /img/reactpatterns-cover.png

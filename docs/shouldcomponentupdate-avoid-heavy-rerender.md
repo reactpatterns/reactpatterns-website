@@ -2,7 +2,7 @@
 id: shouldcomponentupdate-avoid-heavy-re-render
 sidebar_label: shouldComponentUpdate avoid heavy re-renders
 title: shouldComponentUpdate Avoid Heavy Re-render
-description: shouldComponentUpdate avoid heavy re-renders | React Patterns, techniques, tips and tricks in development for Ract developer.
+description: shouldComponentUpdate avoid heavy re-renders | React Patterns, techniques, tips and tricks in development for React developers.
 keywords: ['shouldComponentUpdate avoid heavy re-renders', 'reactpatterns', 'react patterns', 'reactjspatterns', 'reactjs patterns', 'react', 'reactjs', 'react techniques', 'react tips and tricks']
 version: shouldComponentUpdate avoid heavy re-renders
 image: /img/reactpatterns-cover.png

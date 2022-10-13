@@ -2,7 +2,7 @@
 id: logical-and-operator
 sidebar_label: Logical && operator
 title: Logical && Operator
-description: Logical && operator | React Patterns, techniques, tips and tricks in development for Ract developer.
+description: Logical && operator | React Patterns, techniques, tips and tricks in development for React developers.
 keywords: ['logical && operator', 'react logical && operator', 'reactpatterns', 'react patterns', 'reactjspatterns', 'reactjs patterns', 'react', 'reactjs', 'react techniques', 'react tips and tricks']
 version: Logical && operator
 image: /img/reactpatterns-cover.png

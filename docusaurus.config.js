@@ -1,6 +1,7 @@
 module.exports = {
   title: 'reactpatterns',
-  tagline: 'React Patterns, techniques, tips and tricks in development for Ract developer.',
+  tagline:
+    'React Patterns, techniques, tips and tricks in development for React developers.',
   url: 'https://reactpatterns.js.org',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -33,7 +34,7 @@ module.exports = {
           label: 'Home',
           position: 'right',
         },
-        {to: 'blog', label: 'Blog', position: 'right'},
+        { to: 'blog', label: 'Blog', position: 'right' },
         {
           href: 'https://github.com/reactpatterns',
           label: 'GitHub',
@@ -109,4 +110,4 @@ module.exports = {
       },
     ],
   ],
-};
+}

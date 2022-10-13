@@ -2,7 +2,7 @@
 id: proxy-component
 sidebar_label: Proxy component
 title: Proxy Component
-description: Proxy Component | React Patterns, techniques, tips and tricks in development for Ract developer.
+description: Proxy Component | React Patterns, techniques, tips and tricks in development for React developers.
 keywords: ['proxy component', 'reactpatterns', 'react patterns', 'reactjspatterns', 'reactjs patterns', 'react', 'reactjs', 'react techniques', 'react tips and tricks']
 version: Proxy Component
 image: /img/reactpatterns-cover.png

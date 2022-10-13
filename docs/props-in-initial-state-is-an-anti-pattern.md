@@ -2,7 +2,7 @@
 id: props-in-initial-state-is-an-anti-pattern
 sidebar_label: Props in initial state is an anti-pattern
 title: Props in Initial State is an Anti-pattern
-description: Props in initial state is an anti-pattern | React Patterns, techniques, tips and tricks in development for Ract developer.
+description: Props in initial state is an anti-pattern | React Patterns, techniques, tips and tricks in development for React developers.
 keywords: ['props in initial state is an anti-pattern', 'reactpatterns', 'react patterns', 'reactjspatterns', 'reactjs patterns', 'react', 'reactjs', 'react techniques', 'react tips and tricks']
 version: Props in initial state is an anti-pattern
 image: /img/reactpatterns-cover.png

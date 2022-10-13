@@ -2,7 +2,7 @@
 id: function-as-child-component
 sidebar_label: Function as child component
 title: Function as Child Component
-description: Function as child component | React Patterns, techniques, tips and tricks in development for Ract developer.
+description: Function as child component | React Patterns, techniques, tips and tricks in development for React developers.
 keywords: ['function as child component', 'child component', 'reactpatterns', 'react patterns', 'reactjspatterns', 'reactjs patterns', 'react', 'reactjs', 'react techniques', 'react tips and tricks']
 version: Function as child component
 image: /img/reactpatterns-cover.png

@@ -2,7 +2,7 @@
 id: external-templating-component
 sidebar_label: External templating component
 title: External Templating Component
-description: External templating component | React Patterns, techniques, tips and tricks in development for Ract developer.
+description: External templating component | React Patterns, techniques, tips and tricks in development for React developers.
 keywords: ['external templating component', 'child component', 'reactpatterns', 'react patterns', 'reactjspatterns', 'reactjs patterns', 'react', 'reactjs', 'react techniques', 'react tips and tricks']
 version: External templating component
 image: /img/reactpatterns-cover.png

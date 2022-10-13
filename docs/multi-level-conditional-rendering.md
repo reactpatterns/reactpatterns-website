@@ -2,7 +2,7 @@
 id: multi-level-conditional-rendering
 sidebar_label: Multi-level conditional rendering
 title: Multi-level Conditional Rendering
-description: Multi-level conditional rendering, techniques, tips and tricks in development for Ract developer.
+description: Multi-level conditional rendering, techniques, tips and tricks in development for React developers.
 keywords: ['multi-level conditional rendering', 'reactpatterns', 'react patterns', 'reactjspatterns', 'reactjs patterns', 'react', 'reactjs', 'react techniques', 'react tips and tricks']
 version: Multi-level conditional rendering
 image: /img/reactpatterns-cover.png

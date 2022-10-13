@@ -2,7 +2,7 @@
 id: higher-order-function
 sidebar_label: Higher-Order function
 title: Higher-Order Function
-description: Higher-Order function | React Patterns, techniques, tips and tricks in development for Ract developer.
+description: Higher-Order function | React Patterns, techniques, tips and tricks in development for React developers.
 keywords: ['higher-order function', 'higher order function', 'reactpatterns', 'react patterns', 'reactjspatterns', 'reactjs patterns', 'react', 'reactjs', 'react techniques', 'react tips and tricks']
 version: Higher-Order functions
 image: /img/reactpatterns-cover.png

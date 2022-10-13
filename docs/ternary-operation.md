@@ -2,7 +2,7 @@
 id: ternary-operation
 sidebar_label: Ternary operation
 title: Ternary Operation
-description: Ternary operation | React Patterns, techniques, tips and tricks in development for Ract developer.
+description: Ternary operation | React Patterns, techniques, tips and tricks in development for React developers.
 keywords: ['ternary operation', 'react ternary operation', 'reactpatterns', 'react patterns', 'reactjspatterns', 'reactjs patterns', 'react', 'reactjs', 'react techniques', 'react tips and tricks']
 version: Ternary operation
 image: /img/reactpatterns-cover.png
