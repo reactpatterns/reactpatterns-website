@@ -2,7 +2,7 @@
 id: destructuring-function-argument
 sidebar_label: Destructuring function argument
 title: Destructuring Function Argument
-description: Destructuring function argument | React Patterns, techniques, tips and tricks in development for Ract developer.
+description: Destructuring function argument | React Patterns, techniques, tips and tricks in development for React developers.
 keywords: ['destructuring function argument', 'child component', 'reactpatterns', 'react patterns', 'reactjspatterns', 'reactjs patterns', 'react', 'reactjs', 'react techniques', 'react tips and tricks']
 version: Destructuring function argument
 image: /img/reactpatterns-cover.png

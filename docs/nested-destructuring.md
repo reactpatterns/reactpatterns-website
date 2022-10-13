@@ -2,7 +2,7 @@
 id: nested-destructuring
 sidebar_label: Nested destructuring
 title: Nested Destructuring
-description: Nested destructuring | React Patterns, techniques, tips and tricks in development for Ract developer.
+description: Nested destructuring | React Patterns, techniques, tips and tricks in development for React developers.
 keywords: ['nested destructuring', 'reactpatterns', 'react patterns', 'reactjspatterns', 'reactjs patterns', 'react', 'reactjs', 'react techniques', 'react tips and tricks']
 version: Nested destructuring
 image: /img/reactpatterns-cover.png

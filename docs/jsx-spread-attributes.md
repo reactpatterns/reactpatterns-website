@@ -2,7 +2,7 @@
 id: jsx-spread-attributes
 sidebar_label: JSX spread attributes
 title: JSX Spread Attributes
-description: JSX spread attributes | React Patterns, techniques, tips and tricks in development for Ract developer.
+description: JSX spread attributes | React Patterns, techniques, tips and tricks in development for React developers.
 keywords: ['jsx spread attributes', 'jsx attributes', 'reactpatterns', 'react patterns', 'reactjspatterns', 'reactjs patterns', 'react', 'reactjs', 'react techniques', 'react tips and tricks']
 version: JSX spread attributes
 image: /img/reactpatterns-cover.png

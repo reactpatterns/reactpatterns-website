@@ -2,7 +2,7 @@
 id: indexes-as-a-key-is-an-anti-pattern
 sidebar_label: Indexes as a key is an anti-pattern
 title: Indexes as a Key is an Anti-pattern
-description: Indexes as a key is an anti-pattern | React Patterns, techniques, tips and tricks in development for Ract developer.
+description: Indexes as a key is an anti-pattern | React Patterns, techniques, tips and tricks in development for React developers.
 keywords: ['indexes as a key is an anti-pattern', 'higher order function', 'reactpatterns', 'react patterns', 'reactjspatterns', 'reactjs patterns', 'react', 'reactjs', 'react techniques', 'react tips and tricks']
 version: Indexes as a key is an anti-pattern
 image: /img/reactpatterns-cover.png

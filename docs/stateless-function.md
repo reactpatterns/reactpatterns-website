@@ -2,7 +2,7 @@
 id: stateless-function
 sidebar_label: Stateless function
 title: Stateless Function (Presentational Component)
-description: Stateless function (Presentational component) | React Patterns, techniques, tips and tricks in development for Ract developer.
+description: Stateless function (Presentational component) | React Patterns, techniques, tips and tricks in development for React developers.
 keywords: ['Stateless function', 'statelessfunction', 'presentational component', 'presentationalcomponent', 'reactpatterns', 'react patterns', 'reactjspatterns', 'reactjs patterns', 'react', 'reactjs', 'react techniques', 'react tips and tricks']
 version: Stateless function (Presentational component)
 image: /img/reactpatterns-cover.png

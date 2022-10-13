@@ -2,7 +2,7 @@
 id: component-injection
 sidebar_label: Component injection
 title: Component Injection
-description: Component injection | React Patterns, techniques, tips and tricks in development for Ract developer.
+description: Component injection | React Patterns, techniques, tips and tricks in development for React developers.
 keywords: ['component injection', 'react component injection', 'reactpatterns', 'react patterns', 'reactjspatterns', 'reactjs patterns', 'react', 'reactjs', 'react techniques', 'react tips and tricks']
 version: Component injection
 image: /img/reactpatterns-cover.png

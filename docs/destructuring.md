@@ -2,7 +2,7 @@
 id: destructuring
 sidebar_label: What is destructuring?
 title: What is Destructuring?
-description: Destructuring | React Patterns, techniques, tips and tricks in development for Ract developer.
+description: Destructuring | React Patterns, techniques, tips and tricks in development for React developers.
 keywords: ['destructuring', 'react component injection', 'reactpatterns', 'react patterns', 'reactjspatterns', 'reactjs patterns', 'react', 'reactjs', 'react techniques', 'react tips and tricks']
 version: Destructuring
 image: /img/reactpatterns-cover.png

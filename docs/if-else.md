@@ -2,7 +2,7 @@
 id: if-else
 sidebar_label: If else
 title: If Else
-description: If else | React Patterns, techniques, tips and tricks in development for Ract developer.
+description: If else | React Patterns, techniques, tips and tricks in development for React developers.
 keywords: ['if else', 'react conditional rendering', 'reactpatterns', 'react patterns', 'reactjspatterns', 'reactjs patterns', 'react', 'reactjs', 'react techniques', 'react tips and tricks']
 version: If else
 image: /img/reactpatterns-cover.png

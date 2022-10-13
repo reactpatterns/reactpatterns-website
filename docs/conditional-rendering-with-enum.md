@@ -2,7 +2,7 @@
 id: conditional-rendering-with-enum
 sidebar_label: Conditional rendering with enum
 title: Conditional Rendering with Enum
-description: Conditional rendering with enum | React Patterns, techniques, tips and tricks in development for Ract developer.
+description: Conditional rendering with enum | React Patterns, techniques, tips and tricks in development for React developers.
 keywords: ['conditional rendering with enum', 'child component', 'reactpatterns', 'react patterns', 'reactjspatterns', 'reactjs patterns', 'react', 'reactjs', 'react techniques', 'react tips and tricks']
 version: Conditional rendering with enum
 image: /img/reactpatterns-cover.png

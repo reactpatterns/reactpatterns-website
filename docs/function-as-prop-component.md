@@ -2,7 +2,7 @@
 id: function-as-prop-component
 sidebar_label: Function as prop component
 title: Function as Prop Component
-description: Function as prop component | React Patterns, techniques, tips and tricks in development for Ract developer.
+description: Function as prop component | React Patterns, techniques, tips and tricks in development for React developers.
 keywords: ['function as prop component', 'function as prop', 'prop component', 'reactpatterns', 'react patterns', 'reactjspatterns', 'reactjs patterns', 'react', 'reactjs', 'react techniques', 'react tips and tricks']
 version: Function as prop component
 image: /img/reactpatterns-cover.png
